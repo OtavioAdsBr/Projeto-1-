@@ -1,6 +1,7 @@
 ### 🎮 Jogo da Velha em Portugol
 
-- Este projeto é uma implementação simples do Jogo da Velha usando a linguagem de pseudocódigo Portugol. 🧑‍💻 Ele foi criado para ajudar iniciantes a praticar lógica de programação de maneira divertida!
+- Este projeto é uma implementação simples do Jogo da Velha usando a linguagem de pseudocódigo Portugol.
+- 🧑‍💻 Ele foi criado para praticar a lógica de programação de maneira divertida!
 
 ### 🚀 Funcionalidades:
 
